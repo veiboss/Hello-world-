@@ -16,3 +16,4 @@
 발표 동영상 <br>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/tHqDf_o2xvw" title="[22/23 UCL] 맨시티 vs 라이프치히 홀란드 주요장면" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 # 취미
+축구랑 게임을 주로 합니다.(0322)
